@@ -119,7 +119,7 @@ docker inspect c2
 
 # Docker容器的数据卷
 
-![image-20251105000548805](./docker命令.assets/image-20251105000548805.png)
+![image-20251105000548805](image-20251105000548805.png)
 
 ```bash
 docker run ... -v 宿主机目录（文件）:容器内目录（文件）...
