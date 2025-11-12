@@ -1,7 +1,3 @@
----
-title: docker命令
----
-
 docker.hub.com
 
 
@@ -123,7 +119,7 @@ docker inspect c2
 
 # Docker容器的数据卷
 
-![image-20251105000548805](./docker命令.assets/image-20251105000548805.png)
+![image-20251105000548805](https://gitee.com/ruo-dm/picgo_gitee/raw/master/image/image-20251105000548805.png)
 
 ```bash
 docker run ... -v 宿主机目录（文件）:容器内目录（文件）...
@@ -154,13 +150,13 @@ centos:7
 
 
 
-![image-20251105001301589](./docker命令.assets/image-20251105001301589.png)
+![image-20251105001301589](https://gitee.com/ruo-dm/picgo_gitee/raw/master/image/image-20251105001301589.png)
 
-<img src="./docker命令.assets/image-20251105001318234.png" alt="image-20251105001318234" style="zoom:75%;" />
+<img src="https://gitee.com/ruo-dm/picgo_gitee/raw/master/image/image-20251105001318234.png" alt="image-20251105001318234" style="zoom:75%;" />
 
 
 
-![image-20251105001656823](./docker命令.assets/image-20251105001656823.png)
+![image-20251105001656823](https://gitee.com/ruo-dm/picgo_gitee/raw/master/image/image-20251105001656823.png)
 
 ### **数据卷小结**
 
@@ -189,11 +185,11 @@ centos:7
 
 ### Docker镜像原理
 
-![image-20251105004936667](./docker命令.assets/image-20251105004936667.png)
+![image-20251105004936667](https://gitee.com/ruo-dm/picgo_gitee/raw/master/image/image-20251105004936667.png)
 
-![image-20251105005036124](./docker命令.assets/image-20251105005036124.png)
+![image-20251105005036124](https://gitee.com/ruo-dm/picgo_gitee/raw/master/image/image-20251105005036124.png)
 
-![image-20251105005049586](./docker命令.assets/image-20251105005049586.png)
+![image-20251105005049586](https://gitee.com/ruo-dm/picgo_gitee/raw/master/image/image-20251105005049586.png)
 
 
 
